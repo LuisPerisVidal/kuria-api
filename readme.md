@@ -1,6 +1,8 @@
-# TypeScript Express Skeleton (base / project starter)
+# KURIA - API
 
-This is a repository intended to serve as a starting point if you want to bootstrap a express API project in TypeScript with examples.
+API from my future project 'KURIA', a software to manager different properties (houses, offices, locals, parkings...).
+
+This API is a fork of 'https://github.com/LuisPerisVidal/typescript-express-skeleton'. That it's my pesonal skeleton when I work with express/typescript.
 
 ## Prepare application
 
@@ -46,15 +48,3 @@ npm run test
 ```
 Open folder /testrestclient
 ```
-
-
-## Features
-
-- [TypeScript](https://www.typescriptlang.org/) (v4)
-- [ts-node-dev](https://github.com/wclr/ts-node-dev)
-- [Prettier](https://prettier.io/)
-- [ESLint](https://eslint.org/) with:
-  - [Simple Import Sort](https://github.com/lydell/eslint-plugin-simple-import-sort/)
-  - [Import plugin](https://github.com/benmosher/eslint-plugin-import/)
-- [Jest](https://jestjs.io) with [DOM Testing Library](https://testing-library.com/docs/dom-testing-library/intro)
-- [GitHub Action workflows](https://github.com/features/actions) set up to run tests and linting on push
